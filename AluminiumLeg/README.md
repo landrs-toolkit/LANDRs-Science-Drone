@@ -4,19 +4,19 @@ This folder contains three versions of a possible aluminium leg design for the M
 ***
 
 ## There are three versions:<br>
-**v1:
+**v1**:
 * Small bend radius, 1mm
 * Thickness of 3.18mm
 
 <img src="https://github.com/MBorrageiro/cad-drawings/blob/main/AluminiumLeg/AlulegV1.PNG" width="350" height="350">
 
-**v2: 
+**v2**: 
 * Increased bend radius, 50mm
 * Thickness varied, 3.18-4.78mm
 
 <img src="https://github.com/MBorrageiro/cad-drawings/blob/main/AluminiumLeg/AlulegV2.PNG" width="350" height="350">
 
-**v3:
+**v3**:
 * Small bend radius, 1mm
 * Thickness of 4.78mm
 * Cut outs to reduce weight
