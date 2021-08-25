@@ -8,11 +8,13 @@ This simple design accommodates the carrier board by using exisiting holes on th
 <br> Files:
 - CubeSpacerV1.SLDPRT: Editable Solidworks file
 - v1SpacersOnFrame.SLDASM: Assembly file of the spacers on the tarot frame
+
 ### Cube Spacer:
 <img src="https://github.com/MBorrageiro/cad-drawings/blob/main/CubeSpacer/CubeSpacerV1.JPG" width="100" height="100">
+
 ### Cube Spacer on Frame:
-<img src="https://github.com/MBorrageiro/cad-drawings/blob/main/CubeSpacer/v1SpacersOnFrame.JPG" width="100" height="100">
-***
+<img src="https://github.com/MBorrageiro/cad-drawings/blob/main/CubeSpacer/v1SpacersOnFrame.JPG" width="250" height="250">
+
 ## CubPlatFormV1
 ***
 A simple platform to fasten the carrier board to the Tarot 680 Pro drone frame.
