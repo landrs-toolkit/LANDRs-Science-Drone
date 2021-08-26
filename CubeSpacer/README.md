@@ -13,7 +13,7 @@ This simple design accommodates the carrier board by using exisiting holes on th
 <img src="https://github.com/MBorrageiro/cad-drawings/blob/main/CubeSpacer/CubeSpacerV1.JPG" width="100" height="100">
 
 ### Cube Spacer on Frame:
-<img src="https://github.com/MBorrageiro/cad-drawings/blob/main/CubeSpacer/v1SpacersOnFrame.JPG" width="250" height="250">
+<img src="https://github.com/MBorrageiro/cad-drawings/blob/main/CubeSpacer/v1SpacersOnFrame.JPG" width="300" height="250">
 
 ## CubPlatFormV1
 ***
