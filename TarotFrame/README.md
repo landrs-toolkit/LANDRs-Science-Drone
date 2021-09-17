@@ -10,7 +10,7 @@ The dimensions were edited to suit mouting on a Tarot frame.
 - fmBaseTarot2Flanges.STL: 2 flanges 180&deg; apart on the mounting plate, holes 46mm apart.
 - fmBaseTarot4Flanges.STL: 4 flanges 90&deg; apart on the mounting plate, holes 46mm apart.
 
-## RFD Telemetry
+## RFD Telemetry Cases
 3D printable attachment methods for the RFD900x Telemetry radio.
 
 There are two designs to mount the RFD radios to the Tarot frame:
@@ -33,7 +33,7 @@ It is made up of a top and base designed to fit onto a sensor mount which is loc
 - RFDTopCoverV1.STL
 - RFDBotCoverV1.STL
 
-## RndArmClampV1
+## Round Arm Mount
 A 3D printable sensor mount. This is the first iteration and will be updated after evaluation.
 
 The clamp is suitable to fitting on a 16mm rod, a fastening hole is provided for an M5 bolt with recommned length of 30mm however 25mm may suffice.
