@@ -30,6 +30,7 @@ It is made up of a top and base designed to fit onto a sensor mount which is loc
 **Files**:
 - RFDTopCoverV1.SLDPRT
 - RFDBotCoverV1.SLDPRT
+- RFDBotCoverV2.SLDPRT (*Update: edited for better 3D printing*)
 - RFDTopCoverV1.STL
 - RFDBotCoverV1.STL
 
@@ -40,4 +41,5 @@ The clamp is suitable to fitting on a 16mm rod, a fastening hole is provided for
 
 **Files**:
 - RndArmClampV1.SLDPRT
+- RndArmClampV2.SLDPRT (*Update: edited for better 3D printing*)
 - RndArmClampV1.STL
