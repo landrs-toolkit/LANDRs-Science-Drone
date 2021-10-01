@@ -8,7 +8,11 @@ The dimensions were edited to suit mouting on a Tarot frame.
 
 **Files**:
 - fmBaseTarot2Flanges.STL: 2 flanges 180&deg; apart on the mounting plate, holes 46mm apart.
-- fmBaseTarot4Flanges.STL: 4 flanges 90&deg; apart on the mounting plate, holes 46mm apart.
+- fmBaseTarot4Flanges.STL: 4 flanges 90&deg; apart on the mounting plate, holes 46mm apart
+Update: *Improved the strength of the clip cage on 12 flange model. 12 flanges for stability and mounting surface area.*
+- fmBaseTarot12Flanges.STL: 12 flanges 30&deg; apart on the mounting plate, holes 46mm apart.
+- folding_mast.scad: OpenSCAD files to edit GPS mast
+- mast_lib.scad: Accommpanying custom SCAD lib for GPS mast construction.
 
 ## RFD Telemetry Cases
 3D printable attachment methods for the RFD900x Telemetry radio.
