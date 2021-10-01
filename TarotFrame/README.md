@@ -33,11 +33,12 @@ This design clamps the RFD radio in place between the top and bottom frame plate
 It is made up of a top and base designed to fit onto a sensor mount which is located on a 16mm rod. The case is secured to a sensor mount by a 2.5mm cable tie.
 
 **Files**:
-- RFDTopCoverV1.SLDPRT
+- RFDTopCoverV1.SLDPRT (*Update: Edited sizing and printability*)
 - RFDBotCoverV1.SLDPRT
-- RFDBotCoverV2.SLDPRT (*Update: edited for better 3D printing*)
+- RFDBotCoverV2.SLDPRT (*Update: Edited sizing and printability*)
 - RFDTopCoverV1.STL
-- RFDBotCoverV1.STL
+- RFDBotCoverV1.STL (*Note: sizing slightly different to TopCoverV1 and BotCoverV2, left here to show legacy idea*)
+- RFDBotCoverV2.STL
 
 ## Round Arm Mount
 A 3D printable sensor mount. This is the first iteration and will be updated after evaluation.
