@@ -49,3 +49,4 @@ The clamp is suitable to fitting on a 16mm rod, a fastening hole is provided for
 - RndArmClampV1.SLDPRT
 - RndArmClampV2.SLDPRT (*Update: edited for better 3D printing*)
 - RndArmClampV1.STL
+- RndArmClampV2.STL
