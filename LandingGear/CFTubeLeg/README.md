@@ -1,8 +1,8 @@
 # CFT Leg Landing Gear
 
 This folder contains the current working of the Carbon Fiber Tube Leg. All the associated components to make up the assembley are present:
-- Mount left
-- Mount right
+- Mount 1(Left/Top)
+- Mount 2(Right/Bot)
 - Leg Rounding Cap
 - Carbon Fiber Tube (25mm)
 
@@ -21,7 +21,7 @@ An alternative mount will be created such that not all the rotor mounts come wit
 ## Top and Bottom Mounting Clamp, *V3*:
 
 This is a further iteration of **Version 2** and adjusts the manner in which the mount clamps to the rotor boom.
-This change was created to facilitate possible ease of mounting and dismounting the landing gear leg or rotor boom as if would not require the entire 
+This change was created to facilitate possible ease of mounting and dismounting the landing gear leg or rotor boom as it would not require the entire 
 centeral hub to be disassembled.
 
 ## Additionals Files:
