@@ -29,4 +29,5 @@ centeral hub to be disassembled.
 There are three additional files provided to create a SOLIDWORKS assembly file:
 - LGTubeAsm: The assembly file containing the two mounts and the following two parts.
 - LGTubeCap: A 3D printable round "Cap" for the carbon fuber tube to act as a foot
-- LGTubeCF: A simple hollow carbon fiber tube, (OD25mm,ID23mm,L350mm). 
+- LGTubeCF: A simple hollow carbon fiber tube, (OD25mm,ID23mm,L350mm).
+- LGTubeTBMV3Asm: This is the assembly containing the parts with in the *version 3* folder.
