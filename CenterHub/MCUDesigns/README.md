@@ -24,3 +24,11 @@ There are new files included for the Assembly file and SOLIDWORK parks:
 - CHObDoubleTop: Top plate of the central hub.
 - CHDoDeDoubleBot: Bottom plate of the central hub.
 - FrameAsmV1: Assembly file with the above two centeral hub plates and landing gear sporting the *version 3* iteration of the Rotor-Leg mount.
+
+## STL Files:
+This folder contains STL files of certain assemblie and parts just to serve as a visual representation. It is not the intention for these parts to be 3D printed.
+
+Files:
+- FrameAsmV1
+- CHObDoubleTop
+- CHDoDeDoubleBot
