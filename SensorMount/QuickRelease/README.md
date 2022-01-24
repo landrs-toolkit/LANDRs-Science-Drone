@@ -1,0 +1,1 @@
+# Quick Release Clamp Ideas
