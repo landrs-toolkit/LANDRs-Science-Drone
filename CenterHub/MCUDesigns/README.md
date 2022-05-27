@@ -17,16 +17,30 @@ The Oblong design is a more rectangular based design where the majority of the s
 The resulting shape is a chassis plate extending longer in one axis compared to its relative perpendicular axis. An example can be seen in the following figure:
 <img src="https://github.com/MBorrageiro/cad-drawings/blob/main/CenterHub/MCUDesigns/OblongDisplay.PNG" width="350" height="400">
 
-# Oblong Double Plate
+## Double Plate Unit, Design 3 (*Accepted Design (03/27/2022)*)
 
 This design contains a top and bottom plate that "sandwiches" the Rotor-leg mounts for added support and structural strength.
-There are new files included for the Assembly file and SOLIDWORK parks:
-- CHObDoubleTop: Top plate of the central hub.
-- CHDoDeDoubleBot: Bottom plate of the central hub.
-- FrameAsmV1: Assembly file with the above two centeral hub plates and landing gear sporting the *version 3* iteration of the Rotor-Leg mount.
 
-## STL Files:
-This folder contains STL files of certain assemblie and parts just to serve as a visual representation. It is not the intention for these parts to be 3D printed.
+There are new files included for the Assembly file and SOLIDWORK parks:
+
+**CHObDoubleTop:** 
+- Top plate of the central hub.
+
+**CHDoDeDoubleBot:** 
+- Bottom plate of the central hub.
+
+**FrameAsmV1:** 
+- Assembly file with the above two centeral hub plates and landing gear sporting the *version 3* iteration of the Rotor-Leg mount.
+
+### Version 1.2 (*Accepted Design (03/27/2022)*)
+The files for version 1.2 can be found in the following folders:
+- [TopPlate](https://github.com/MBorrageiro/cad-drawings/tree/main/CenterHub/MCUDesigns/TopPlate) &
+- [BottomPlate](https://github.com/MBorrageiro/cad-drawings/tree/main/CenterHub/MCUDesigns/BottomPlate)
+
+Each folder contains an editable 3D SOLIDWORKS file and a non-editable DXF file used for CNC cutting/routing of the plates.
+
+### Visual Representation STL Files:
+[This folder](https://github.com/MBorrageiro/cad-drawings/tree/main/CenterHub/MCUDesigns/STLs) contains STL files of certain assemblie and parts just to serve as a visual representation. It is not the intention for these parts to be 3D printed.
 
 Files:
 - FrameAsmV1
