@@ -1,9 +1,10 @@
 # 3D Printed Motor Mounts
 The Science Drone is making use of 3D printed motor mounts. Motor mounts can often be complex shapes and thus make the manufacturing process somewhat difficult and long. 3D printing fixes this problem and shortens the manufacturing process.
 
-There was a concern of strength of the 3D printed materials. Thus a Tensile loading test was performed on two materials to investigate if either would be sufficient for the purpose.
+There was a concern of strength of the 3D printed materials. Thus a Tensile loading test was performed on two materials to investigate if either would be sufficient for the purpose. Both materials proved suitable interms of strength however, concerns of temperature and melting points of the materials was raised. PETG has a higher melting point compared to PLA and this was factor was used to design which material to use.
 
 The Motor Mount went through three significant design iterations and are listed below.
+The folder contains 3D `.STL` files for printing and `.SLDPRT` SOLIDWORKS editable part files
 
 ## MotorMount Print (MMPrint):
 -  A simple design with a single securing point to mount the motor to the rotor boom.
@@ -26,6 +27,7 @@ These issues were revised in iteration 2.
 - Iteration 3 introduced more tolerance in the diameters to account for 3D printing error. 
 - A Fillet was added to the design to distribute the stress more evenly along the securing point.
 - The thickness of the mount was increased by 1mm as a precaution and avoid another iteration.
+- Added a angled slot to accommodate the motor wires. This allows the wires to go further into the rotor boom instead of being exteranl to the boom.
 
 **Design Concers:**
 1. The bottom of the motor shaft seems to be touching the top of the motor mount, adding friction and making it more difficult to turn the motor. [Proposed to add a cut out for clearance]
