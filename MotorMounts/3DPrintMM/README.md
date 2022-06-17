@@ -29,5 +29,5 @@ These issues were revised in iteration 2.
 - The thickness of the mount was increased by 1mm as a precaution and avoid another iteration.
 - Added a angled slot to accommodate the motor wires. This allows the wires to go further into the rotor boom instead of being exteranl to the boom.
 
-**Design Concers:**
+**Design Concerns:**
 1. The bottom of the motor shaft seems to be touching the top of the motor mount, adding friction and making it more difficult to turn the motor. [Proposed to add a cut out for clearance]
