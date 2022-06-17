@@ -26,3 +26,6 @@ These issues were revised in iteration 2.
 - Iteration 3 introduced more tolerance in the diameters to account for 3D printing error. 
 - A Fillet was added to the design to distribute the stress more evenly along the securing point.
 - The thickness of the mount was increased by 1mm as a precaution and avoid another iteration.
+
+**Design Concers:**
+1. The bottom of the motor shaft seems to be touching the top of the motor mount, adding friction and making it more difficult to turn the motor. [Proposed to add a cut out for clearance]
