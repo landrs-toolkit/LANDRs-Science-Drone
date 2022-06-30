@@ -1,1 +1,0 @@
-# Flight Electronics Placement Planning
