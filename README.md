@@ -7,4 +7,4 @@ This will become the primary source for all design materials and user guides for
 * This repo intends to release version 1 before the end of 2022
 
 **License**
-“Licensed under (CERN-OHL-P v2)[https://cern.ch/cern-ohl] or later
+Licensed under (CERN-OHL-P v2)[https://cern.ch/cern-ohl] permissive bariant or later.
