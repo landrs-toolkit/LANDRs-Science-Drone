@@ -1,9 +1,7 @@
 # Modular Chassis Unit (MCU) Designs
-This folder constains two seperae designs based on the MCU idea.
+This folder contains the part and CNC routing files for the Top and Bottom plates of the centeral hub.
 
-Simulation studies were performed on the two proposed center hub designs, one based on a Dodecagon polygon and the other an oblong shape with more surface area in one direction.
-
-SOLIDWORKS (SW) files are included in this Repo for each design and within each zip file are a set of simulations results which can be viewed from within the SW application.
+Simulation studies were performed on the centeral hub designs listed below. The simulation studies were instrumental in determine which set of plates would best suit the applications of the multirotor.
 
 ## DoDeca Chassis Unit, Design 1
 The DoDeca design is based off a polygon with 12 sides (a dodecagon). 
@@ -29,13 +27,10 @@ There are new files included for the Assembly file and SOLIDWORK parks:
 **CHDoDeDoubleBot:** 
 - Bottom plate of the central hub.
 
-**FrameAsmV1:** 
-- Assembly file with the above two centeral hub plates and landing gear sporting the *version 3* iteration of the Rotor-Leg mount.
-
 ### Version 1.2 (*Accepted Design (03/27/2022)*)
 The files for version 1.2 can be found in the following folders:
-- [TopPlate](https://github.com/MBorrageiro/cad-drawings/tree/main/CenterHub/MCUDesigns/TopPlate) &
-- [BottomPlate](https://github.com/MBorrageiro/cad-drawings/tree/main/CenterHub/MCUDesigns/BottomPlate)
+- [TopPlate](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/MechanicalDesign/CenterHubs/TopPlate) &
+- [BottomPlate](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/MechanicalDesign/CenterHubs/BottomPlate)
 
 Each folder contains an editable 3D SOLIDWORKS file and a non-editable DXF file used for CNC cutting/routing of the plates.
 
@@ -43,6 +38,5 @@ Each folder contains an editable 3D SOLIDWORKS file and a non-editable DXF file 
 [This folder](https://github.com/MBorrageiro/cad-drawings/tree/main/CenterHub/MCUDesigns/STLs) contains STL files of certain assemblie and parts just to serve as a visual representation. It is not the intention for these parts to be 3D printed.
 
 Files:
-- FrameAsmV1
 - CHObDoubleTop
 - CHDoDeDoubleBot
