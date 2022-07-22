@@ -11,7 +11,7 @@ This revision combined the rail mount and base plate into one single 3D print. P
  - Ai1HereGpsMount (_Current Prototype (01/06/2022)_)
  - Ai1HereGpsMountLong
  
- The difference is a longer stem, increase the height of the GPS from the center hub.
+ The difference is a longer stem on the _long_ version to increase the height of the GPS from the center hub.
 
 ## GPS Rail Mount
 The GPS rail mount is still being used to connect the GPS to the top rails, it has simply been incorporated into a single 3D printed part in the Ai1HereGpsMount.
