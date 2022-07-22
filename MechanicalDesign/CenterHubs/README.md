@@ -1,7 +1,7 @@
 # Modular Chassis Unit (MCU) Designs
 This folder contains the part and CNC routing files for the Top and Bottom plates of the centeral hub.
 
-Simulation studies were performed on the centeral hub designs listed below. The simulation studies were instrumental in determine which set of plates would best suit the applications of the multirotor.
+Simulation studies were performed on the centeral hub designs listed below. The simulation studies were instrumental in determining which set of plates would best suit the applications of the multirotor.
 
 ## DoDeca Chassis Unit, Design 1
 The DoDeca design is based off a polygon with 12 sides (a dodecagon). 
