@@ -1,8 +1,7 @@
 # Battery Mounting
-This repositorty contains possible ways to connect the battery to the drone center hub.
+This repositorty contains the battery mounting plate that connects to the center hub. This design is being prototyped and is likely to have some minor updates to improve operation.
 
 ## Battery Plate with Butterfly Nut (*Accepted Design (03/27/2022)*)
-
 The contents of the folder:
 
 **BatPlateButFlyNut.SLDPRT**:
