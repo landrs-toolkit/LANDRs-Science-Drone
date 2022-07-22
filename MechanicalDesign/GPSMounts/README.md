@@ -14,7 +14,7 @@ This revision combined the rail mount and base plate into one single 3D print. P
  The difference is a longer stem, increase the height of the GPS from the center hub.
 
 ## GPS Rail Mount
-The GPS rail mount is still being used to connect the GPS to the top rails, it has simple been incorporated into a single 3D printed part in the Ai1HereGpsMount.
+The GPS rail mount is still being used to connect the GPS to the top rails, it has simply been incorporated into a single 3D printed part in the Ai1HereGpsMount.
 
 ## HERE GPS
 This was an attempt to create a snap-fit joint to hold he GPS in place. This is designed to work with the HERE GPS units, howevere requries some revision
