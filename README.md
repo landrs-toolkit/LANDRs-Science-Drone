@@ -1,4 +1,4 @@
-# HadedaHex and DalebrookQuad Or Nyala HexaQuad
+# Nyala HexaQuad
 This will become the primary source for all design materials and user guides for this drone.
 
 **Status:**
