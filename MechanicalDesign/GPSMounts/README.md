@@ -9,7 +9,9 @@ This revision combined the rail mount and base plate into one single 3D print. P
  
  There are two revisions of the Ai1HereGPSMount:
  - Ai1HereGpsMount (_Current Prototype (01/06/2022)_)
+   - [STL File](https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/MechanicalDesign/GPSMounts/Ai1HEREGpsMount.STL), [SOLIDWORKS Part](https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/MechanicalDesign/GPSMounts/Ai1HEREGpsMount.SLDASM)
  - Ai1HereGpsMountLong
+   - [STL File](https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/MechanicalDesign/GPSMounts/Ai1HEREGpsMountLong.STL), [SOLIDWORKS Part](https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/MechanicalDesign/GPSMounts/Ai1HEREGpsMountLong.SLDASM)
  
  The difference is a longer stem on the _long_ version to increase the height of the GPS from the center hub.
 
