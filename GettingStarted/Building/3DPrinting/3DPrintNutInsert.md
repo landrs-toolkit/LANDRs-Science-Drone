@@ -5,7 +5,7 @@ It has become quite a common task to embed bearings or nuts into 3D prints. Reas
 ## Design of the 3D Print:
 Coming Soon... Basically, you have to create a cavity you can slip the nut or bearing into. The cavity must be large enough to house the component in its entirety, otherwise it make contact with the head of printer. Sometimes the cavity can be the shape of the component but this is usually influenced by the print orientation.
 
-![DCavity]("\\Images\\Tutorials\\NutInsert\\NutCavity.png")
+![DCavity](https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/docs/Images/Tutorials/NutInsert/NutCavity.PNG)
 
 # Embedding a Nut in a 3D Print:
 The following steps are for a PrusaMini, however there are concepts that can be transferred to other printers.
@@ -13,14 +13,14 @@ The following steps are for a PrusaMini, however there are concepts that can be 
 ## Step 1, Correct Orientation of the Print:
 Ensure the part is oriented on the print plate such that a pause can be added to insert a nut into the cavity. If the cavity is printed in reverse, you **will not** be able to insert the nut.
 
-![Orientation]()
+![Orientation](https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/docs/Images/Tutorials/NutInsert/SRMNI-Orientation.PNG)
 
 ## Step 2, Slicing and Adding a Pause: (Prusa Specific)
 Prusa already have great documentation on this and it can be found [here](https://help.prusa3d.com/article/insert-pause-or-custom-g-code-at-layer_120490).
 
-However, simply put if you slide the orange layer slider on the right of the screen a "+" appears. Clicking this gives you the option to add a `Pause`, `Colour Change` or `Custom G-code` at this specific layer. We desire a simple `Pause` only.
+However, simply put if you slide the orange layer slider on the right of the screen a "+" appears. Clicking this gives you the option to add a `Pause`, `Colour Change` or `Custom G-code` at the **current** layer. We desire a simple `Pause` only.
 
-![Slider]()
+![Slider](https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/docs/Images/Tutorials/NutInsert/Pause.PNG)
 
 ## Step3, Choosing the Correct Layer for a Pause
 We only want to insert the nut into the cavity just before the cavity closes. If we insert the nut before this point it will leave a portion of the nut protruding from the cavity and can collide with the extruder. The idea then, is to determine at which layer the cavity closes.
@@ -29,10 +29,14 @@ There are two layers you must find to add a successful pause. The Layer that the
 
 **Layer When Cavity Closes**
 
-![After]()
+![After](https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/docs/Images/Tutorials/NutInsert/SRMNI-LayerAfterInsert.PNG)
 
 **Layer Before Cavity Closes**
 
-![Before]()
+![Before](https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/docs/Images/Tutorials/NutInsert/SRMNI-LayerBEFOREInsert.PNG)
 
-We want to add the pause on the layer **BEFORE** the cavity closes.
+We want to add the pause on the layer **BEFORE** the cavity closes. On the layer before the cavity closes, add the pause as described in **Step 2**.
+You can then slice the print and export the G-code for printing.
+
+Happy Printing!
+
