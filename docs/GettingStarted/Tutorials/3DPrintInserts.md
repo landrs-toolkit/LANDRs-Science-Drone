@@ -20,7 +20,7 @@ The following steps are for a PrusaMini, however there are concepts that can be 
 ## Step 1, Correct Orientation of the Print:
 Ensure the part is oriented on the print plate such that a pause can be added to insert a nut into the cavity. If the cavity is printed in reverse, you **will not** be able to insert the nut.
 
-![](Images/Tutorials/NutInsertSRMNI-Orientation.PNG)
+![h](../../Images/Tutorials/NutInsert/SRMNI-Orientation.PNG)
 
 ## Step 2, Slicing and Adding a Pause: (Prusa Specific)
 Prusa already have great documentation on this and it can be found [here](https://help.prusa3d.com/article/insert-pause-or-custom-g-code-at-layer_120490).
