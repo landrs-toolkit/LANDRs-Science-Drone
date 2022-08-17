@@ -6,7 +6,8 @@ There was a concern of strength of the 3D printed materials. Thus a Tensile load
 The Motor Mount went through three significant design iterations and are listed below.
 The folder contains 3D `.STL` files for printing and `.SLDPRT` SOLIDWORKS editable part files
 
-![](https://img.shields.io/badge/3DPrintable-STL%20Here-blueviolet)
+ <a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/MotorMounts/MMPrintV1.3c.STL">
+         <img alt="3DPrintBanner" src="https://img.shields.io/badge/3DPrintable-STL%20Here-blueviolet">
 
 ## MotorMount Print (MMPrint):
 -  A simple design with a single securing point to mount the motor to the rotor boom.
