@@ -7,7 +7,7 @@ This folder contains mounting designs for the radio controller (R/C) and the tel
  </a>
 
 The R/C designs are specificly for the FrSky ARCHER GR8 Receiver.
-There are two designs inlcuded, where the antenna are oriented 90&deg; apart, just in two different planes.
+There are two designs inlcuded, where the antenna are oriented 90&deg; apart, just in two different planes. This snap fit makes use of the following [carbon fiber tube mount](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/SensorMounts/NiTubeMounting)
 
 **90VP:**
 
@@ -29,7 +29,7 @@ There are two differnet 3D printable cases, one that allows mounting of the rece
 
 **Telemetry Case for HexaQuad:**
 
-A simple snap fit case to protect the RFD telemetry radio and provide a mounting point to secure the radio to the HexaQuad. This snap fit makes use of the following [carbon fiber tube mount]()
+A simple snap fit case to protect the RFD telemetry radio and provide a mounting point to secure the radio to the HexaQuad. This snap fit makes use of the following [carbon fiber tube mount](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/SensorMounts/NiTubeMounting)
 
 [STL Files](https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/RadioReceivers/TelemetryRadios)
 
