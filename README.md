@@ -2,7 +2,7 @@
 ![](../../docs/Images/Aesthetic/HexaQuadTracing.jpg)
 
 <a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/MotorMounts/MMPrintV1.3c.STL">
-         <img alt="3DPrintBanner" src="docs/Images/Aesthetic/HexaQuadTracing.jpg" width=600>
+         <img alt="3DPrintBanner" src="docs/Images/Aesthetic/HexaQuadTracing.jpg">
  </a>
 
 This will become the primary source for all design materials and user guides for this drone.
