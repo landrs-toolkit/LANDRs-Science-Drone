@@ -1,7 +1,7 @@
 # Nyala HexaQuad
 ![](../../docs/Images/Aesthetic/HexaQuadTracing.jpg)
 
-<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/MotorMounts/MMPrintV1.3c.STL">
+<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/docs/Images/Aesthetic/HexaQuadTracing.jpg">
          <img alt="3DPrintBanner" src="docs/Images/Aesthetic/HexaQuadTracing.jpg">
  </a>
 
