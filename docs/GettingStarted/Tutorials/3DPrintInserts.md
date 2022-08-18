@@ -6,8 +6,15 @@ nav_order: 1
 ---
 
 # Adding Inserts to 3D Prints:
+{: .no-toc }
 Adding items into the 3D prints can be extremely useful and often simplify designs.
 It has become quite a common task to embed bearings or nuts into 3D prints. Reason being, it allows complex parts to be created through 3D printing but at the same time provided superior mechanical performance compared to 3D printed equivalents.
+
+## Table of Content:
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Design of the 3D Print:
 Coming Soon... Basically, you have to create a cavity you can slip the nut or bearing into. The cavity must be large enough to house the component in its entirety, otherwise it make contact with the head of printer. Sometimes the cavity can be the shape of the component but this is usually influenced by the print orientation.
