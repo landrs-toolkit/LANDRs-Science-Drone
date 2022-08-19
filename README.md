@@ -12,9 +12,9 @@ This will become the primary source for all design materials and user guides for
 * Repo currently primarily contains CAD Drawings related to the 3D printable parts and CNC'd parts.
 * This repo intends to release version 1 before the end of 2022
 
-**Documentation**
+**Usage**
 
-[Docs](https://www.landrs.org/LANDRs-Science-Drone/)
+The documentation can be found at [https://www.landrs.org/LANDRs-Science-Drone/](https://www.landrs.org/LANDRs-Science-Drone/). This will house the build instructions, assistance guides and all information relating to the HexaQuad.
 
 **License**
 Licensed under [CERN-OHL-P v2](https://cern.ch/cern-ohl) permissive bariant or later.
