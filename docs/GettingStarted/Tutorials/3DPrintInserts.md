@@ -24,7 +24,7 @@ When designing a 3D print with an insert there must be a cavity to house the ins
 ## Cavity Shape:
 The shape of the cavity will depend on the print orientation. The cavity will either be the same shape as the component or slightly altered. We need to consider the orientation because the cavity will be printed from bottom to top. Below is an example of a cavity with an altered cavity.
 
-<img src="../../Images/Tutorials/NutInsert/NutCavity.PNG" width=80% >
+<img src="../../Images/Tutorials/NutInsert/NutCavity.PNG" width=700> 
 
 Generally a cavity will have a top and bottom, especially if it is an *altered* cavity. When altering a cavity it is vital to ensure the top opening is the same width as the widest part of the component, otherwise it will be impossible to insert the component.
 
