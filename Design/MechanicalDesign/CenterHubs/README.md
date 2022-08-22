@@ -15,7 +15,10 @@ The Oblong design is a more rectangular based design where the majority of the s
 The resulting shape is a chassis plate extending longer in one axis compared to its relative perpendicular axis. An example can be seen in the following figure:
 <img src="https://github.com/MBorrageiro/cad-drawings/blob/main/CenterHub/MCUDesigns/OblongDisplay.PNG" width="350" height="400">
 
-## Double Plate Unit, Design 3 (*Accepted Design (03/27/2022)*)
+## Double Plate Unit, Design 3
+<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/CenterHubs">
+         <img alt="3DPrintBanner" src="https://img.shields.io/badge/Accepted%20Design-03/27/2022-FFA500">
+ </a>
 
 This design contains a top and bottom plate that "sandwiches" the Rotor-leg mounts for added support and structural strength.
 
@@ -27,7 +30,8 @@ There are new files included for the Assembly file and SOLIDWORK parks:
 **CHDoDeDoubleBot:** 
 - Bottom plate of the central hub.
 
-### Version 1.2 (*Accepted Design (03/27/2022)*)
+### Version 1.2
+
 The files for version 1.2 can be found in the following folders:
 - [TopPlate](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/MechanicalDesign/CenterHubs/TopPlate) &
 - [BottomPlate](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/MechanicalDesign/CenterHubs/BottomPlate)

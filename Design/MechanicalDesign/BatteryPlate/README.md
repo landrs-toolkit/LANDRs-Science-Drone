@@ -3,11 +3,10 @@ This repositorty contains the battery mounting plate that connects to the center
 
 ## Battery Plate with Butterfly Nut (*Accepted Design (03/27/2022)*)
 
-<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/BatteryPlate/WingNutExtender.SLT">
+<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/BatteryPlate">
          <img alt="3DPrintBanner" src="https://img.shields.io/badge/Accepted%20Design-03/27/2022-FFA500">
  </a>
-
-<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/BatteryPlate/WingNutExtender.SLT">
+<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/BatteryPlate/BatPlateBtFlyNut.DXF">
          <img alt="3DPrintBanner" src="https://img.shields.io/badge/CNC-DXF%20Here-FFFF40">
  </a>
 

@@ -1,4 +1,7 @@
 # Center Hub Dodecagon Bottom Plate
+<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/CenterHubs/BottomPlate/CHDoDeDoubleBotV1.2.DXF">
+         <img alt="3DPrintBanner" src="https://img.shields.io/badge/CNC-DXF%20Here-FFFF40">
+ </a>
 
 The bottom plate of the LANDRs Hex and Quad drone. The plate has universal cuts that allow the sUAS to be changed between a hexacopter or a quadcopter.
 
