@@ -20,9 +20,8 @@ The resulting shape is a chassis plate extending longer in one axis compared to 
          <img alt="3DPrintBanner" src="https://img.shields.io/badge/Accepted%20Design-03/27/2022-FFA500">
  </a>
 
-This design contains a top and bottom plate that "sandwiches" the Rotor-leg mounts for added support and structural strength.
 
-There are new files included for the Assembly file and SOLIDWORK parks:
+The following ietration builds on the ideas in the previous versions. This design contains a top and bottom plate that "sandwiches" the Rotor-leg mounts for added support and structural strength. The bottom plate has various cutouts to accommodate the reconfiguration between Hex and Quad, leading to the interchangable HexaQuad.
 
 **CHObDoubleTop:** 
 - Top plate of the central hub.
@@ -33,14 +32,10 @@ There are new files included for the Assembly file and SOLIDWORK parks:
 ### Version 1.2
 
 The files for version 1.2 can be found in the following folders:
-- [TopPlate](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/MechanicalDesign/CenterHubs/TopPlate) &
-- [BottomPlate](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/MechanicalDesign/CenterHubs/BottomPlate)
+- [TopPlate](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/CenterHubs/TopPlate)
+- [BottomPlate](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/CenterHubs/BottomPlate)
 
 Each folder contains an editable 3D SOLIDWORKS file and a non-editable DXF file used for CNC cutting/routing of the plates.
 
-### Visual Representation STL Files:
-[This folder](https://github.com/MBorrageiro/cad-drawings/tree/main/CenterHub/MCUDesigns/STLs) contains STL files of certain assemblie and parts just to serve as a visual representation. It is not the intention for these parts to be 3D printed.
-
-Files:
-- CHObDoubleTop
-- CHDoDeDoubleBot
+### Visual Representation Only:
+[This folder](https://github.com/MBorrageiro/cad-drawings/tree/main/CenterHub/MCUDesigns/STLs) contains STL files of certain assemblies and parts just to serve as a visual representation. It is not the intention for these parts to be 3D printed.
