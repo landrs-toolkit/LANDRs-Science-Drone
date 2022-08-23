@@ -8,7 +8,8 @@ The folder contains 3D `.STL` files for printing and `.SLDPRT` SOLIDWORKS editab
 
  <a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/MotorMounts/MMPrintV1.3c.STL">
          <img alt="3DPrintBanner" src="https://img.shields.io/badge/3DPrintable-STL%20Here-blueviolet">
-
+ </a>
+ 
 ## MotorMount Print (MMPrint):
 -  A simple design with a single securing point to mount the motor to the rotor boom.
 
@@ -35,7 +36,11 @@ These issues were revised in iteration 2.
 **Design Concerns:**
 1. The bottom of the motor shaft seems to be touching the top of the motor mount, adding friction and making it more difficult to turn the motor. [Proposed to add a cut out for clearance]
 
-## MMPrintV1.4 (*Accepted Design (06/17/2022)*):
+## MMPrintV1.4:
+<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/MotorMounts">
+         <img alt="3DPrintBanner" src="https://img.shields.io/badge/Accepted%20Design-06/17/2022-FFA500">
+ </a>
+
 - Added a clearance cut to the surface where the motor shaft was touching.
 
 **Design Notes:**
