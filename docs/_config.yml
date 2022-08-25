@@ -1,7 +1,13 @@
 title: "Nyala HexaQuad"
+email: mauro.borrageiro7@gmail.com
 remote_theme: just-the-docs/just-the-docs
 search_enabled: true
 
+github_username: MBorrageiro
+
+open_new_tab: true
+aux_links_new_tab: true
+
 aux_links:
   "HexaQuad on GitHub":
-    - "https://github.com/landrs-toolkit/LANDRs-Science-Drone"
+  - "https://github.com/landrs-toolkit/LANDRs-Science-Drone"
