@@ -1,9 +1,6 @@
 # Nyala HexaQuad
-![](../../docs/Images/Aesthetic/HexaQuadTracing.jpg)
+<img alt="3DPrintBanner" src="docs/Images/HexaQuadLogo.svg" width=600>
 
-<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/docs/Images/Aesthetic/HexaQuadTracing.jpg">
-         <img alt="3DPrintBanner" src="docs/Images/Aesthetic/HexaQuadTracing.jpg">
- </a>
 
 This will become the primary source for all design materials and user guides for this drone.
 
@@ -11,6 +8,7 @@ This will become the primary source for all design materials and user guides for
 * Drone is undergoing performance testing, see provisional flight performance [here](https://youtu.be/huQ6nF6V_Ks)
 * Repo currently primarily contains CAD Drawings related to the 3D printable parts and CNC'd parts.
 * This repo intends to release version 1 before the end of 2022
+
 
 **Usage**
 
