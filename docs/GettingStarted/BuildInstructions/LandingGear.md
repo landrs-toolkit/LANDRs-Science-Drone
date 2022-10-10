@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Landing Gear
-parent: BuildInstructions
+parent: Build Instructions
 nav_order: 1
 ---
 
