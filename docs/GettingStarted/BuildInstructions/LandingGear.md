@@ -9,7 +9,10 @@ nav_order: 1
 {: .no_toc }
 We start our assembly with the landing gear. These are simple structures and can be assembled almost completely before being added to the rest of the frame.
 
-3DPrintable {: .label .label-purple} CNC {: .label .label-yellow}
+3DPrintable 
+{: .label .label-purple} 
+CNC 
+{: .label .label-yellow}
 
 ## Table of Content:
 {: .no_toc .text-delta }
@@ -18,6 +21,7 @@ We start our assembly with the landing gear. These are simple structures and can
 {:toc}
 
 ## BOM
+
 | Component              | Hex Quantity | Quad Quantity | Description                          |
 |:------------------------|:--------------|:---------------|:--------------------------------------|
 | Tube Cap               | 3            | 4             | Foot of landing gear                 |
