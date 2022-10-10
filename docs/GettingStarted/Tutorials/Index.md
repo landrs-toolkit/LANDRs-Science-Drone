@@ -9,5 +9,5 @@ permalink: /docs/GettingStarted/Tutorials
 
 # Tutorials:
 There are a number of tutorials to assist with the assembly, manufacturing and contruction of the Nyala HexaQuad. Tutorials will focus on specific "How to" tasks
-as opposed to the step by step guide on suggested assembly. That can be found in the [building steps]().
+as opposed to the step by step guide on suggested assembly. That can be found in the [building steps](/docs/GettingStarted/BuildInstructions).
 {: .fs-6 .fw-300 }
