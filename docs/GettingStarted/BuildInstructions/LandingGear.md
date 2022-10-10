@@ -11,8 +11,10 @@ We start our assembly with the landing gear. These are simple structures and can
 
 3DPrintable 
 {: .label .label-purple} 
-CNC 
-{: .label .label-yellow}
+M3 Nut 
+{: .label .label-pink}
+M3 Nut 
+{: .label .label-red}
 
 ## Table of Content:
 {: .no_toc .text-delta }
