@@ -15,6 +15,6 @@ A step by step guide to assist with the assembly of the Nyala HexaQuad in either
 
 # Glossary of Terms
 | Short Hand | Meaning |
-|------------|----------|
-|BOM|Bill of Materials|
+|:------------|:----------|
+|BOM |Bill of Materials|
 

@@ -1,0 +1,27 @@
+---
+layout: default
+title: Landing Gear
+parent: BuildInstructions
+nav_order: 1
+---
+
+# Landing Gear
+{: .no_toc }
+We start our assembly with the landing gear. These are simple structures and can be assembled almost completely before being added to the rest of the frame.
+
+3DPrintable {: .label .label-purple} CNC {: .label .label-yellow}
+
+## Table of Content:
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+## BOM
+| Component              | Hex Quantity | Quad Quantity | Description                          |
+|:------------------------|:--------------|:---------------|:--------------------------------------|
+| Tube Cap               | 3            | 4             | Foot of landing gear                 |
+| Carbon Leg             | 3            | 4             | 25x23x250mm length of carbon tube    |
+| Bottom Rotorboom Mount | 3            | 4             | Landing gear mount to connect to hub |
+| M3 30mm bolt           | 6            | 8             | M3 socket head 30mm bolt             |
+| M3 standard Nut        | 6            | 8             | M3 standard nut for 3D prints        |
