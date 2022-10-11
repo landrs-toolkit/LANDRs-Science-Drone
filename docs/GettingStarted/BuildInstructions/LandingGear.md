@@ -34,11 +34,12 @@ M3 Nut
 
 
 ## Assembling the Landing gear:
-|||
+
+||Repetitions|
 |:----|:-----|
 |Hex |Repeat 3 times|
 |Quad |Repeat 4 times|
 
 
-<img alt="CFTube" src="docs/Images/BuildInstructions/LandingGear/CFTube.PNG" width=600>
+<img alt="CFTube" src="../../Images/BuildInstructions/LandingGear/CFTube.png" width=600>
 

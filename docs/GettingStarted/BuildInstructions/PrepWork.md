@@ -49,7 +49,7 @@ To Do:
 Use: 23x25x500mm Carbon Fiber Tubes
 Final result: 3-4x (23x25x350mm)
 
-**Note: take care when cutting carbon fiber, as the small particles should not be breathed in!**
+**Note: take care when cutting carbon fiber, as the small particles should not be inhaled!**
 
 1. Measure and mark a 350mm length on the carbon fiber tube.
 2. Using the tape, cut a piece long enough to go around the circumference of the tube. 
@@ -76,7 +76,7 @@ There are two holes to be drilled on each landing gear leg. The holes are locate
 Use: 10x12x500mm Carbon Fiber Tubes
 Final result: 4x (10x12x250mm) 
 
-**Note: take care when cutting carbon fiber, as the small particles should not be breathed in!**
+**Note: take care when cutting carbon fiber, as the small particles should not be inhaled!**
 
 The process is the same as outlined for the cutting of the landing gear legs. The only difference is the final length should be **250mm**.
 
