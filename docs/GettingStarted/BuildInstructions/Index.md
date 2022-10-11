@@ -8,14 +8,20 @@ permalink: /docs/GettingStarted/BuildInstructions
 ---
 
 # Build Instructions:
-A step by step guide to assist with the assembly of the Nyala HexaQuad in either of its configurations. This is a general guide and specifics relating to either configuration will be made known when required.
+This is a step by step guide to assist with the assembly of the Nyala HexaQuad in either of its configurations. This is a general guide and specifics relating to either configuration will be made known when required.
 {: .fs-6 .fw-300 }
 
-# Outline of Components 
+1. TOC
+{:toc}
 
-# Glossary of Terms
+## Outline of Components
+
+## Glossary of Terms
 
 | Short Hand | Meaning |
 |:------------|:----------|
 |BOM |Bill of Materials|
+|ID |Inner Diameter|
+|OD |Outer Diameter|
+|Len |Length|
 
