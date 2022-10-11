@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Landing Gear
+title: Preparation
 parent: Build Instructions
 nav_order: 1
 ---
