@@ -26,7 +26,7 @@ A number of the 3D printed parts contain nut inserts for added strength. A tutor
 
 **Orientation:**
 
-<img alt="WingNut" src="../../Images/BuildInstructions/PrintOrientations/WingNutOri.jpg" width=500>
+<img alt="WingNut" src="../../Images/BuildInstructions/PrintOrientations/WingNutOri.JPG" width=500>
 
 **Infill Percentage:** 30%
 
@@ -36,7 +36,7 @@ A number of the 3D printed parts contain nut inserts for added strength. A tutor
 
 **Orientation:**
 
-<img alt="LandingGear" src="../../Images/BuildInstructions/PrintOrientations/TubeCapOri.jpg" width=500>
+<img alt="LandingGear" src="../../Images/BuildInstructions/PrintOrientations/TubeCapOri.JPG" width=500>
 
 **Infill Percentage:** 15%
 
@@ -49,7 +49,7 @@ A number of the 3D printed parts contain nut inserts for added strength. A tutor
 
 **Orientation:**
 
-<img alt="TopRotor" src="../../Images/BuildInstructions/PrintOrientations/TopRotorOri.jpg">
+<img alt="TopRotor" src="../../Images/BuildInstructions/PrintOrientations/TopRotorOri.JPG">
 
 **Infill Percentage:** 30%
 
@@ -59,7 +59,7 @@ A number of the 3D printed parts contain nut inserts for added strength. A tutor
 
 **Orientation:**
 
-<img alt="BotRotor" src="../../Images/BuildInstructions/PrintOrientations/BotRotorOri.jpg" width=500>
+<img alt="BotRotor" src="../../Images/BuildInstructions/PrintOrientations/BotRotorOri.JPG" width=500>
 
 **Infill Percentage:** 30%
 
