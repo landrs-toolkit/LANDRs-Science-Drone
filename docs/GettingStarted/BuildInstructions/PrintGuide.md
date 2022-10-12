@@ -22,11 +22,11 @@ A number of the 3D printed parts contain nut inserts for added strength. A tutor
 # WingNut Extender:
 
 1 x M5 Nut
-{: .label .label-red-000 }
+{: .label .label-red}
 
 **Orientation:**
 
-<img alt="CFTube" src="../../Images/BuildInstructions/PrintOrientations/WingNutOri.jpg" width=500>
+<img alt="WingNut" src="../../Images/BuildInstructions/PrintOrientations/WingNutOri.jpg" width=500>
 
 **Infill Percentage:** 30%
 
@@ -36,7 +36,7 @@ A number of the 3D printed parts contain nut inserts for added strength. A tutor
 
 **Orientation:**
 
-<img alt="CFTube" src="../../Images/BuildInstructions/PrintOrientations/TubeCapOri.jpg" width=500>
+<img alt="LandingGear" src="../../Images/BuildInstructions/PrintOrientations/TubeCapOri.jpg" width=500>
 
 **Infill Percentage:** 15%
 
@@ -45,11 +45,11 @@ A number of the 3D printed parts contain nut inserts for added strength. A tutor
 # Top Rotor Boom Mount:
 
 2 x M4 Nut
-{: .label .label-red-000 }
+{: .label .label-red}
 
 **Orientation:**
 
-<img alt="CFTube" src="../../Images/BuildInstructions/PrintOrientations/TopOri.jpg" width=500>
+<img alt="TopRotor" src="../../Images/BuildInstructions/PrintOrientations/TopRotorOri.jpg">
 
 **Infill Percentage:** 30%
 
@@ -59,7 +59,7 @@ A number of the 3D printed parts contain nut inserts for added strength. A tutor
 
 **Orientation:**
 
-<img alt="CFTube" src="../../Images/BuildInstructions/PrintOrientations/BotRotorOri.jpg" width=500>
+<img alt="BotRotor" src="../../Images/BuildInstructions/PrintOrientations/BotRotorOri.jpg" width=500>
 
 **Infill Percentage:** 30%
 

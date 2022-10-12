@@ -108,4 +108,4 @@ The following is a list of parts that need to be printed:
 
 Consult the print orientation and nut insert guide to assist with how each part should be printed and if the component requires nut inserts.
 
-[Print Orientation and Inserts](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/RadioReceivers){: .btn .btn-purple }
+[Print Orientation and Inserts](../../GettingStarted/BuildInstructions/PrintGuide.md){: .btn}
