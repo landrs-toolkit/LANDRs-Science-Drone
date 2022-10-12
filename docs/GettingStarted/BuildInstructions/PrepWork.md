@@ -7,7 +7,8 @@ nav_order: 1
 
 # Preparation for Assembly:
 {: .no_toc }
-There are a few small tasks that should be complete before assembling the HexaQuad. These are split into preparing the carbon fiber tubes and printing all the 3D parts required. {: .fs-6 .fw-300 }
+There are a few small tasks that should be complete before assembling the HexaQuad. These are split into preparing the carbon fiber tubes and printing all the 3D parts required.
+{: .fs-6 .fw-300 }
 
 ## Table of Content:
 {: .no_toc .text-delta }
@@ -42,16 +43,20 @@ We need to prepare carbon fiber tubes for use in the landing gear and for the gi
 At the end of this task you will have carbon fiber tubes which can be used in the landing gear.
 
 To Do:
-- Cut the standard lengths of carbon fiber to be 350mm
+- Cut the standard lengths of carbon fiber tube to be 350mm
 - Drill holes on either end of the tube to secure it to the foot and rotorboom mount.
 
 ### Legs Cutting:
 Use: 23x25x500mm Carbon Fiber Tubes
+
 Final result: 3-4x (23x25x350mm)
 
 **Note: take care when cutting carbon fiber, as the small particles should not be inhaled!**
 
 1. Measure and mark a 350mm length on the carbon fiber tube.
+
+<img alt="CFTube" src="../../Images/BuildInstructions/LandingGear/CFTube.png" width=600>
+
 2. Using the tape, cut a piece long enough to go around the circumference of the tube. 
     - Carefully allign the tape with the mark, wrapping the tape around the tube. 
     - When wrapping the tape around the tube, make sure the edges line up and there is no overhang.
@@ -74,6 +79,7 @@ There are two holes to be drilled on each landing gear leg. The holes are locate
 ## Gimbal Rails
 ### Rails Cutting
 Use: 10x12x500mm Carbon Fiber Tubes
+
 Final result: 4x (10x12x250mm) 
 
 **Note: take care when cutting carbon fiber, as the small particles should not be inhaled!**

@@ -2,7 +2,7 @@
 layout: default
 title: Landing Gear
 parent: Build Instructions
-nav_order: 2
+nav_order: 3
 ---
 
 # Landing Gear
@@ -45,7 +45,7 @@ Slide the landing gear tube cap into the lower end of the carbon fiber tube. The
 
 The rotorboom bottom mount slides onto the top end of the carbon fiber tube. The top end of the carbon fiber tube is identified by a securing hole located 20mm from the end of the tube.
 
-### Step 3: *Secure both the tube cap and rotorboom mount*
+### Step 3: *Secure the prints with M3 bolts*
 
 Taking two **M3x30mm** hex socket bolts, allign the holes and thread the bolts through. 
 
