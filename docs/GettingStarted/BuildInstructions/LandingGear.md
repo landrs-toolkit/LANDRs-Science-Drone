@@ -32,13 +32,13 @@ We start our assembly with the landing gear. These are simple structures and can
 
 The following illustrations will assist with assembling the landing gear of the HexaQuad. Repeat the following steps 3 times for Hex or 4 times in the case of the Quad configuration.
 
-<img alt="CFTube" src="../../Images/BuildInstructions/LandingGear/View2TechDrawing.jpg" width=600>
+<img alt="CFTube" src="../../Images/BuildInstructions/LandingGear/View2TechDrawing.jpg" width=700>
 
 ### Step 1: *Fit the landing gear tube cap*
 
 Slide the landing gear tube cap into the lower end of the carbon fiber tube. The lower end is identified by a securing hole located 10mm from the end of the tube.
 
-<img alt="CFTube" src="../../Images/BuildInstructions/LandingGear/LGExploded.jpg" width=600>
+<img alt="CFTube" src="../../Images/BuildInstructions/LandingGear/DetailedExploded.jpg" width=700>
 
 
 ### Step 2: *Fit the rotorboom bottom mount*

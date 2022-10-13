@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 3D Part Print Guide
-parent: Build Instructions
+parent: Preparation
+grand_parent: Build Instructions
 nav_order: 2
 ---
 
