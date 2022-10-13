@@ -37,12 +37,13 @@ Generally a cavity will have a top and bottom, especially if it is an *altered* 
 # How to Embed a Nut in a 3D Print:
 The following steps are for a PrusaMini, however there are concepts that can be transferred to other printers.
 
-## Step 1, Correct Orientation of the Print:
+## Step 1, *Correct Orientation of the Print:*
 The cavity for the insert generally has a bottom and a top. The part must be orientated such that the bottom of the cavity is printed first. If the cavity is printed in reverse, you **will not** be able to insert the nut.
 
-![Orientation](../../Images/Tutorials/NutInsert/SRMNI-Orientation.PNG) 
+<img alt="Orientation" src="../../Images/Tutorials/NutInsert/SRMNI-Orientation.PNG" width=500>
 
-## Step 2, Slicing and Adding a Pause: (Prusa Specific)
+
+## Step 2, *Slicing and Adding a Pause: (Prusa Specific)*
 Prusa already have great documentation on this and it can be found [here](https://help.prusa3d.com/article/insert-pause-or-custom-g-code-at-layer_120490).
 
 However, simply put if you slide the orange layer slider on the right of the screen a "+" appears. Clicking this gives you the option to add a `Pause`, `Colour Change` or `Custom G-code` at the **current** layer. Select a `Pause`. Note, you can only add a pause if the print has been sliced.
@@ -50,20 +51,22 @@ However, simply put if you slide the orange layer slider on the right of the scr
 ![Slider](../../Images/Tutorials/NutInsert/Pause.PNG)
 
 
-## Step3, Choosing the Correct Layer for a Pause
+## Step3, *Choosing the Correct Layer for a Pause*
 We only want to insert the nut into the cavity just before the cavity closes. If we insert the nut before this point it will leave a portion of the nut protruding from the cavity and can collide with the extruder. The idea then, is to determine at which layer the cavity closes.
 
 There are two layers you must find to add a successful pause. The Layer that the **cavity closes** and the layer **before** the cavity closes.
 
 **Layer Before Cavity Closes**
 
-![Before](../../Images/Tutorials/NutInsert/SRMNI-LayerBEFOREInsert.PNG)
+<img alt="Before" src="../../Images/Tutorials/NutInsert/SRMNI-LayerBEFOREInsert.PNG" width=500>
 
 **Layer When Cavity Closes**
 
-![After](../../Images/Tutorials/NutInsert/SRMNI-LayerAfterInsert.PNG)
+<img alt="After" src="../../Images/Tutorials/NutInsert/SRMNI-LayerAfterInsert.PNG" width=500>
 
 We want to add the pause on the layer **BEFORE** the cavity closes. Add the pause as described in **Step 2**.
 You can then slice the print and export the G-code for printing.
 
 Happy Printing!
+
+

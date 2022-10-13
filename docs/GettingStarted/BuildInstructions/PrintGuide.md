@@ -10,7 +10,7 @@ nav_order: 2
 
 This document outlines everything required to print the associated parts in the intended way. It will highlight the correct print orientation, if a nut insert is present, the infill percentage and layer settings.
 
-A number of the 3D printed parts contain nut inserts for added strength. A tutorial on how to insert the nuts can be found here:
+A number of the 3D printed parts contain nut inserts for added strength. A tutorial on how to embed nuts can be found here:
 
 [3D Print Inserts](../../GettingStarted/Tutorials/3DPrintInserts.md){: .btn}
 
@@ -103,6 +103,9 @@ Requires Support Material
 
 1 x M5 Nuts
 {: .label .label-red}
+
+Requires Support Material
+{: .label .label-green}
 
 **Orientation:**
 

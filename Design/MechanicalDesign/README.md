@@ -1,7 +1,7 @@
 # Mechanical Design Files for the LANDRs Science Drone
 
 ## Quad Configuration Part List:
-*Note this is a minimal list and will be updated to the full requirements in september 2022*
+*Note this is a minimal list and will be updated to the full requirements in November 2022*
 
 | Part Name           | Quantity | Manufacturing Technique |
 |---------------------|----------|-------------------------|
@@ -19,3 +19,9 @@
 | [NiTubeMounting](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/SensorMounts/NiTubeMounting)      | 2        | 3D Print                |
 | [RC Receiver](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/RadioReceivers)         | 1        | 3D Print                |
 | [Telemetry Radio](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/RadioReceivers)     | 1        | 3D Print                |
+
+## Print Guide
+*For assistance with printing, please consult the HexaQuad dedicated documentation [here](https://www.landrs.org/LANDRs-Science-Drone/)*
+
+- [Print Orientations](https://www.landrs.org/LANDRs-Science-Drone/GettingStarted/BuildInstructions/PrintGuide.html)
+- [Nut Inserts](https://www.landrs.org/LANDRs-Science-Drone/GettingStarted/Tutorials/3DPrintInserts.html)

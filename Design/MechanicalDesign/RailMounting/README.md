@@ -2,7 +2,7 @@
 This folder contains the mounts to support the top and bottom gimbal rails. Both rails are a 250mm long carbon fiber tube with a 12mm diameter.
 
 ## Top Gimbal Rail Mount:
-<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/RailMounting/TopRail/PrtTopGimbalNutInsert">
+<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone/blob/main/Design/MechanicalDesign/RailMounting/TopRail/PrtTopGimbalNutInsert.STL">
          <img alt="3DPrintBanner" src="https://img.shields.io/badge/3DPrintable-STL%20Here-blueviolet">
  </a>
 <a href="https://www.landrs.org/LANDRs-Science-Drone/GettingStarted/Tutorials/3DPrintInserts.html">
