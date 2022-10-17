@@ -42,7 +42,7 @@ When alligning the motor on the mount, ensure the motor power cables are on the 
 
 <img alt="CFTube" src="../../Images/BuildInstructions/RotorBooms/RotorMountMotor.jpg" width=700>
 
-### Step 2: *Fitiing the ESC inside the carbon rotorboom*
+### Step 2: *Fitting the ESC inside the carbon rotorboom*
 
 With the motor mounted, now guide the motor power wires through the opening as shown below.
 
@@ -66,7 +66,7 @@ Finally, using **2 x M3x10mm** hex socket bolts and **2 x M3** standard nuts, se
 
 ## Clockwise or Counter Clockwise ESCs:
 
-There are two directions the motors can turn, clockwise and counter clockwise. This requires slightly different connections between the motor and ESC. 
+There are two directions the motors can turn, clockwise (CW) and counter clockwise (CCW). This requires slightly different connections between the motor and ESC. In both configurations, half of the motors will be CW and the other half will be CCW.
 
 |Configuration| CW Motors|CCW Motors|
 |:--|:--|:--|
