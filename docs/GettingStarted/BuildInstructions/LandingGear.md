@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Step1: Landing Gear"
+title: "1. Landing Gear"
 parent: Build Instructions
-nav_order: 3
+nav_order: 2
 ---
 
 # Landing Gear
