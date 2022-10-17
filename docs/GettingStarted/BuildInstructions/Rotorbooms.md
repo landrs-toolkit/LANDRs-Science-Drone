@@ -74,6 +74,7 @@ There are two directions the motors can turn, clockwise and counter clockwise. T
 |Quad|2|2|
 
 **To ensure the correct result from this guide please use exactly the same orientations!**
+
 |Clockwise|Counter Clockwise|
 |:----|:----|
 |![](../../Images/BuildInstructions/RotorBooms/CW.jpg)|![](../../Images/BuildInstructions/RotorBooms/CCW.jpg)|
