@@ -66,5 +66,5 @@ The GPS mount was designed to snap fit onto one of the rail mounts. Thus, it doe
 
 The GPS should be mounted at the front of the HexaQuad as illustrated below. It is mounted at the front to isolate it from the power systems interference which is located at the back of the HexaQuad.
 
-[Previous Section](../../GettingStarted/BuildInstructions/Rotorbooms.md){: .btn}[Next Section](../../GettingStarted/BuildInstructions/TopPlate.md){: .btn}
+[Previous Section](../../GettingStarted/BuildInstructions/Rotorbooms.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/TopPlate.md){: .btn}
 

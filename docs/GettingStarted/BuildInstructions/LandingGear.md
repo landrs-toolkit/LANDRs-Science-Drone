@@ -51,4 +51,4 @@ Taking two **M3x30mm** hex socket bolts, align the holes and thread the bolts th
 
 *Incase the bolts are loose, rather use M3x35mm and a standard M3 nut to secure the tube cap and rotorboom mount.*
 
-[Previous Section](../../GettingStarted/BuildInstructions/PrepWork.md){: .btn}[Next Section](../../GettingStarted/BuildInstructions/Rotorbooms.md){: .btn}
+[Previous Section](../../GettingStarted/BuildInstructions/PrepWork.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/Rotorbooms.md){: .btn}
