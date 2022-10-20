@@ -57,7 +57,7 @@ The two carbon fiber gimbal rails (**12x10x250mm**) can now be secured in the ra
 
 <img alt="CFTube" src="../../Images/BuildInstructions/TopPlate/RailsOn.jpg" width=700>
 
-The rail is secured in place by tightening the four bolts in the side of rail mounts. **DO NOT** over tighten these bolts as it will break the 3D prints.
+The rail is secured in place by tightening the four bolts in the side of the rail mounts. **DO NOT** over tighten these bolts as it will break through the 3D prints.
 
 ### Step 4: *Mounting the GPS stand*
 The GPS mount was designed to snap fit onto one of the rail mounts. Thus, it does not require any bolts to secure it.
@@ -66,5 +66,5 @@ The GPS mount was designed to snap fit onto one of the rail mounts. Thus, it doe
 
 The GPS should be mounted at the front of the HexaQuad as illustrated below. It is mounted at the front to isolate it from the power systems interference which is located at the back of the HexaQuad.
 
-[Previous Section](../../GettingStarted/BuildInstructions/Rotorbooms.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/TopPlate.md){: .btn}
+[Previous Section](../../GettingStarted/BuildInstructions/Rotorbooms.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/TopPlate.md){: .btn .mr}
 
