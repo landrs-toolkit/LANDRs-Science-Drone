@@ -80,4 +80,4 @@ There are two directions the motors can turn, clockwise (CW) and counter clockwi
 |![](../../Images/BuildInstructions/RotorBooms/CW.jpg)|![](../../Images/BuildInstructions/RotorBooms/CCW.jpg)|
 
 
-[Previous Section](../../GettingStarted/BuildInstructions/LandingGear.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/TopPlate.md){: .btn .mr8}
+[Previous Section](../../GettingStarted/BuildInstructions/LandingGear.md){: .btn .mr8} [Next Section](../../GettingStarted/BuildInstructions/TopPlate.md){: .btn}
