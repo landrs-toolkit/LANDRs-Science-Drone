@@ -36,9 +36,9 @@ The following illustrations will assist with assembling the rotorbooms of the He
 
 ### Step 1: *Attaching the motors to the mounts*
 
-Fit the motor onto the printed mount, alligning the mounting holes. Use **4 x M3x10mm** hex socket bolts to secure the motor to the mount. 
+Fit the motor onto the printed mount, aligning the mounting holes. Use **4 x M3x10mm** hex socket bolts to secure the motor to the mount. 
 
-When alligning the motor on the mount, ensure the motor power cables are on the same side as the "Wire guide notch" of the motor mount.
+When aligning the motor on the mount, ensure the motor power cables are on the same side as the "Wire guide notch" of the motor mount.
 
 <img alt="CFTube" src="../../Images/BuildInstructions/RotorBooms/RotorMountMotor.jpg" width=700>
 
@@ -56,7 +56,7 @@ Once satisfied the connection direction is correct, the ESC connected to the mot
 
 <img alt="CFTube" src="../../Images/BuildInstructions/RotorBooms/ESCInTube.jpg" width=700>
 
-Push the ESC into the tube. Gently pull on the ESC power wires whilst sliding the tube in the opposite direction until the ESC is inside the rotorboom and the end of the rotorboom is flush with the stopper end of the motormount.
+Push the ESC into the tube. Gently pull on the ESC power wires whilst sliding the tube in the opposite direction until the ESC is inside the rotorboom and the end of the rotorboom is flush with the stopper end of the motor mount.
 
 ### Step 3: *Securing the rotorboom to the motor mount*
 
@@ -73,8 +73,11 @@ There are two directions the motors can turn, clockwise (CW) and counter clockwi
 |Hex|3|3|
 |Quad|2|2|
 
-**To ensure the correct result from this guide please use exactly the same orientations!**
+**To ensure the correct result from this guide please use exactly the same orientations of motor and ESC!**
 
 |Clockwise|Counter Clockwise|
 |:----|:----|
 |![](../../Images/BuildInstructions/RotorBooms/CW.jpg)|![](../../Images/BuildInstructions/RotorBooms/CCW.jpg)|
+
+
+[Previous Section](../../GettingStarted/BuildInstructions/LandingGear.md){: .btn}[Next Section](../../GettingStarted/BuildInstructions/TopPlate.md){: .btn}

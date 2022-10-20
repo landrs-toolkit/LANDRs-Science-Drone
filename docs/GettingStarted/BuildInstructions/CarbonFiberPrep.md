@@ -45,9 +45,9 @@ Final result: 3-4x (23x25x350mm)
 1. Measure and mark a 350mm length on the carbon fiber tube.
 
 2. Using the tape, cut a piece long enough to go around the circumference of the tube. 
-    - Carefully allign the tape with the mark, wrapping the tape around the tube. 
+    - Carefully align the tape with the mark, wrapping the tape around the tube. 
     - When wrapping the tape around the tube, make sure the edges line up and there is no overhang.
-3. Using the Hacksaw, cut along the tape edge alligned with the 350mm mark.
+3. Using the Hacksaw, cut along the tape edge aligned with the 350mm mark.
 4. Repeat steps 1-3 for the total number of landing gear legs you require. (*3 for Hex and 4 for Quad*)
 
 ### Drilling Holes:
@@ -56,7 +56,7 @@ There are two holes to be drilled on each landing gear leg. The holes are locate
 
 1. From the end of the tube measure 10mm towards the center of the tube and mark with a pencil.
 2. Using the hole guide, located the mark in the eye of the guide.
-3. Secure the guide and tube so that they cannot move. Then allign the mark with the drill bit on the drill press.
+3. Secure the guide and tube so that they cannot move. Then align the mark with the drill bit on the drill press.
 4. Make the hole using the drill press and M3 bit. 
 5. On the opposite end of the tube, measure 20mm in and mark with a pencil.
 6. Steps 2-3 can then be repeated for the mark located 20mm in from the end.
