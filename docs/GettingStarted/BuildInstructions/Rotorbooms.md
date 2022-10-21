@@ -58,6 +58,8 @@ Once satisfied the connection direction is correct, the ESC connected to the mot
 
 Push the ESC into the tube. Gently pull on the ESC power wires whilst sliding the tube in the opposite direction until the ESC is inside the rotorboom and the end of the rotorboom is flush with the stopper end of the motor mount.
 
+With either a pencil or marker and tape, label the motor direction on the rotorboom for ease of identification.
+
 ### Step 3: *Securing the rotorboom to the motor mount*
 
 Finally, using **2 x M3x10mm** hex socket bolts and **2 x M3** standard nuts, secure the rotorboom to the motor mount.
