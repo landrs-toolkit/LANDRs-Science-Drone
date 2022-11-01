@@ -23,7 +23,7 @@ The central hub is made up of three different plates each housing different elec
 |:------------------------|:--------------|:-------------------------|
 | [Oblong Top Plate](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/CenterHubs/TopPlate) | 1 | CNC'd carbon fiber plate |
 | Cube Orange | 1| CubePilot flight controller and standard board    |
-| [Top Rail Mount](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/RailMounting) | 4 | 6S 340KV electric motor |
+| [Top Rail Mount](https://github.com/landrs-toolkit/LANDRs-Science-Drone/tree/main/Design/MechanicalDesign/RailMounting) | 4 | 3D Printed top rail mount |
 | Gimbal Rails | 2 | 12x10x250mm carbon fiber tube|
 | M2.5 x 8mm screw | 4| M2.5 screw to secure the flight controller|
 | M3 x 8mm bolt | 12 | M3 hex socket bolts for gimbal mounts|
@@ -66,5 +66,5 @@ The GPS mount was designed to snap fit onto one of the rail mounts. Thus, it doe
 
 The GPS should be mounted at the front of the HexaQuad as illustrated below. It is mounted at the front to isolate it from the power systems interference which is located at the back of the HexaQuad.
 
-[Previous Section](../../GettingStarted/BuildInstructions/Rotorbooms.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/TopPlate.md){: .btn .float-right}
+[Previous Section](../../GettingStarted/BuildInstructions/Rotorbooms.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/BatPlate.md){: .btn .float-right}
 
