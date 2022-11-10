@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Nyala HexaQuad, LANDR''s Science Drone'
+message: >-
+  If you use this design, please cite it using the
+  metadata from this file.
+type: hardware
+authors:
+  - given-names: Mauro Giovanni
+    family-names: Borrageiro
+    email: mauro.borrageiro7@gmail.com
+    affiliation: University of Cape Town
+    orcid: 'https://orcid.org/0000-0002-7542-9771'
+  - given-names: Jane
+    family-names: Wyngaard
+    email: jane@wyngaard.co.za
+version: 1.0.0
+url: "https://github.com/landrs-toolkit/LANDRs-Science-Drone"
