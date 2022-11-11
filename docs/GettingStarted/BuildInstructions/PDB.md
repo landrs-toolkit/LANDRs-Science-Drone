@@ -101,11 +101,11 @@ The PDB comes with an internal voltage regulator that can output 5V, 9V or 12V a
 
 The standard output is 5V, if one of the solder pads is connected then the output voltage will match the label.
 
-<img alt="CFTube" src="../../Images/BuildInstructions/PDB/SolderPads.jpg" >
+<img alt="CFTube" src="../../Images/BuildInstructions/PDB/SolderPads.JPG" >
 
 The selected voltage is output from these solder pads and wires with the desired connectors can be fixed here. **Vx** is the positive terminal and **G** is the negative or ground terminal.
 
-<img alt="CFTube" src="../../Images/BuildInstructions/PDB/LEDS.jpg" width=500>
+<img alt="CFTube" src="../../Images/BuildInstructions/PDB/LEDs.jpg" width=500>
 
 These solder pads can be used for flight LEDs or to power other peripheries just ensure the output voltage matches the requirements of the component in use.
 
