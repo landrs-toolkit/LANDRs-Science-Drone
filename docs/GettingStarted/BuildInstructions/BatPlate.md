@@ -81,4 +81,4 @@ Then add a standard **M5** washer and nut to the top of each threaded rod. Tight
 
 *Note: You may need to slightly adjust nut heights on each threaded rod to ensure the battery plate is as close to level as possible.*
 
-[Previous Section](../../GettingStarted/BuildInstructions/TopPlate.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/BatPlate.md){: .btn .float-right}
+[Previous Section](../../GettingStarted/BuildInstructions/TopPlate.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/PDB.md){: .btn .float-right}

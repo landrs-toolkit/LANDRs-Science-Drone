@@ -127,5 +127,5 @@ The PDB is secured to the printed mount with 2 **M3x12mm** hex socket bolts and 
 <img alt="CFTube" src="../../Images/BuildInstructions/PDB/FastenPDB.jpg" width=500>
 
 
-[Previous Section](../../GettingStarted/BuildInstructions/BatPlate.md.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/PDB.md.md){: .btn .float-right}
+[Previous Section](../../GettingStarted/BuildInstructions/BatPlate.md){: .btn} [Next Section](../../GettingStarted/BuildInstructions/PDB.md){: .btn .float-right}
 

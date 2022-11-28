@@ -13,3 +13,6 @@ aux_links:
   - "https://github.com/landrs-toolkit/LANDRs-Science-Drone"
 
 logo: "/Images/HexaQuadLogo.svg"
+
+back_to_top: true
+back_to_top_text: "Back to top"

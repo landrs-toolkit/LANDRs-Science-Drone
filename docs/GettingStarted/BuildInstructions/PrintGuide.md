@@ -67,7 +67,7 @@ Requires Support Material
 
 <img alt="BotRotor" src="../../Images/BuildInstructions/PrintOrientations/BotRotorOri.JPG" width=500>
 
-**Infill Percentage:** 30%
+**Infill Percentage:** 100%
 
 **Layer Thickness:** 0.2mm
 
@@ -80,7 +80,7 @@ Requires Support Material
 
 <img alt="BotRotor" src="../../Images/BuildInstructions/PrintOrientations/MotorOri.JPG" width=500>
 
-**Infill Percentage:** 50%
+**Infill Percentage:** 100%
 
 **Layer Thickness:** 0.2mm
 
@@ -177,3 +177,6 @@ Requires Support Material
 **Infill Percentage:** 30%
 
 **Layer Thickness:** 0.2mm
+
+[Previous Section](../../GettingStarted/BuildInstructions/CarbonFiberPrep.md){: .btn}
+[Next Section](../../GettingStarted/BuildInstructions/LandingGear.md){: .btn .float-right}
