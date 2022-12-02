@@ -37,7 +37,7 @@ This section will outline the connections of all the power carrying lines in the
 ## Matek Documentation:
 A Matek manual for the PDB can be found [here](http://www.mateksys.com/?portfolio=pdb-hex#tab-id-1). They provide a brief instruction set for connections of either a hexacopter or a quadcopter.
 
-## Assembling the Bottom part of the Central Hub:
+## PDB Connections:
 The following illustrations will assist with soldering all the required components to the PDB and its extensions. The illustrations will make use of images and diagrams for more detail.
 
 <img alt="CFTube" src="../../Images/BuildInstructions/PDB/Overview.jpg" width=700>
