@@ -66,6 +66,20 @@ Finally, using **2 x M3x10mm** hex socket bolts and **2 x M3** standard nuts, se
 
 <img alt="CFTube" src="../../Images/BuildInstructions/RotorBooms/RotorFastenBoom.jpg" width=700>
 
+## Labeling the Rotorbooms:
+It is recommend to label the rotorbooms by motor number, this makes assembly easier as the flight controller expects certain motors to be in certain locations as shown below:
+
+<img alt="CFTube" src="../../Images/BuildInstructions/RotorBooms/Pixhwak_outputs.jpg" width=300>
+
+|Hexacopter Motors|Quadcopter Motors|
+|:----|:----|
+|![](../../Images/BuildInstructions/RotorBooms/motororder-hexa-x-2d.png)|![](../../Images/BuildInstructions/RotorBooms/motororder-quad-x-2d.png)|
+
+With a marker, write the number of the motor on the ESC signal lead as follows
+
+<img alt="CFTube" src="../../Images/BuildInstructions/RotorBooms/ESClead.jpg" width=300>
+
+
 ## Clockwise or Counter Clockwise ESCs:
 
 There are two directions the motors can turn, clockwise (CW) and counter clockwise (CCW). This requires slightly different connections between the motor and ESC. In both configurations, half of the motors will be CW and the other half will be CCW.

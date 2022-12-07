@@ -24,10 +24,10 @@ The full presentation given at the summit can be found on YouTube [here](https:/
 In the presentation we explore the motivation for the HexaQuad and how it can benefit researchers compared to drones available off the shelf. There is further exploration of the design considerations and performance.
 
 ## License
-Licensed under [CERN-OHL-P v2](https://cern.ch/cern-ohl) permissive bariant or later.
+Licensed under [CERN-OHL-P v2](https://cern.ch/cern-ohl) permissive variant or later.
 
 ## Citation
-If using the work presented here, please use the following citation:
+If using the work presented here, please use one of the following citation:
 
 > **APA**: Borrageiro, M. G., & Wyngaard, J. Nyala HexaQuad, LANDRs' Science Drone (Version 1.0.0) [Designs]. https://github.com/landrs-toolkit/LANDRs-Science-Drone
 
