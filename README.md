@@ -1,8 +1,17 @@
 # Nyala HexaQuad
+
+<a href="https://github.com/landrs-toolkit/LANDRs-Science-Drone">
+         <img alt="3DPrintBanner" src="https://img.shields.io/badge/Version%3A-Release%201.0-brightgreen">
+ </a>
+
 <img alt="LogoDiagram" src="docs/Images/HexaQuadLogo.svg" width=600>
 
 
-This will become the primary source for all design materials and user guides for this drone.
+Welcome to the primary source for all the design materials and users guides for the LANDRS Nyala HexaQuad.
+
+
+The HexaQuad is an open source, modular multirotor designed with stringent academic research data provenance in mind.
+It is a simple to replicate and user friendly design for drone novices and experts alike, all you need are some basic tools, 3D printer and access to CNC routing.
 
 **Status:**
 * Drone is undergoing performance testing, see provisional flight performance [here](https://youtu.be/huQ6nF6V_Ks)
