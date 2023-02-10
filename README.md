@@ -7,17 +7,20 @@
 <img alt="LogoDiagram" src="docs/Images/HexaQuadLogo.svg" width=600>
 
 
-Welcome to the primary source for all the design materials and users guides for the LANDRS Nyala HexaQuad.
+**Welcome to the primary source for all the design materials and users guides for the LANDRS Nyala HexaQuad.**
 
 
 The HexaQuad is an open source, modular multirotor designed with stringent academic research data provenance in mind.
-It is a simple to replicate and user friendly design for drone novices and experts alike, all you need are some basic tools, 3D printer and access to CNC routing.
+It is a simple to replicate, user friendly design for drone novices and experts alike, all you need are some basic tools, a 3D printer and once off access to CNC routing.
 
-**Status:**
-* Drone is undergoing performance testing, see provisional flight performance [here](https://youtu.be/huQ6nF6V_Ks)
-* This repo contains CAD files for the Nyala HexaQuad, associate documentation and ardupilot parameter files
-* This repo intends to release version 1 before the end of 2022
+**Specifications:**
+* 15-20 minutes operation time with 1-3kg payload
+* Configured as Hex or Quad
+* Max flight time: 30 - 35 minutes (16.8Ah)
+* Max Payload: 2kg(Quad); 5kg(Hex)
+* Battery Voltage: 6S
 
+A short description of the HexaQuad can be found on YouTube [here](https://youtu.be/huQ6nF6V_Ks) and detailed specifications can be seen below.
 
 ## Documentation
 
@@ -45,3 +48,37 @@ author = {Borrageiro, Mauro Giovanni and Wyngaard, Jane},
 title = {{Nyala HexaQuad, LANDRs' Science Drone}},
 url = {https://github.com/landrs-toolkit/LANDRs-Science-Drone}
 }
+
+## Detailed Specifications:
+| **Model**                             | **General**                                               |
+|-------------------------------------------|-----------------------------------------------------------------|
+| Flight Controller                         | Cubepilot Orange Cube                                           |
+| Autopilot                                 | Arducopter 4.3.1                                                |
+| Navigation                                | Here 2 GPS                                                      |
+| Remote Control                            | FrSky Archer GR8 ACCESS (Receiver), Taranis Q X7S (Transmitter) |
+| Telemetry Radio                           | RFD900+ 900MHz radios                                           |
+| Operating Range (km)                      | 2                                                               |
+| Battery Voltage (V)                       | 22.2 (3.7x6)                                           |
+| Battery Capacity (Ah)                     | 8.4 - 16.8                                                      |
+| Motor                                     | T-Motor MN5008 340KV 6S                                         |
+| Propeller                                 | T-Motor P18x6.1 Carbon Fiber                              |
+| Wingspan (mm)                             | 1120 (no props), 1578 (props on)                                |
+|                                           | **Hexacopter**                                             |
+| Configuration                             | Hex-X                                                           |
+| Dimensions (W x L x H mm)    | 1120 x 970 x 450                                        |
+| Frame Weight (kg)                         | 2.7                                                             |
+| AUW, No battery (kg)                | 3.7                                                             |
+| AUW(kg)                             | 4.6 - 5.5                                                       |
+| Max Thrust (N)                            | 246                                                             |
+| Max Payload (kg)                          | 5                                                               |
+| Typical Flight Time (1kg, min)            | 28.8                                                            |
+| Maximum Flight Time (min)                 | 19.2 - 30.6                                                     |
+|                                           | **Quadcopter**                                             |
+| Configuration                             | Quad-X                                                          |
+| Dimensions (W x L x H mm)     | 792 x 792 x 450                                         |
+| Frame Weight (kg)                         | 2.2                                                             |
+| AUW, No battery (kg)                | 2.9                                                             |
+| AUW(kg)                             | 3.8 - 4.6                                                       |
+| Max Thrust (N)                            | 165                                                             |
+| Max Payload (kg)                          | 2                                                               |
+| Maximum Flight Time, single battery (min) | 23                                                              |
