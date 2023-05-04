@@ -85,5 +85,7 @@ url = {https://github.com/landrs-toolkit/LANDRs-Science-Drone}
 
 ## Contact Details
 You can connect with me on LinkedIn or via Email:
-[Mauro-Borrageiro-87a5131b5]{https://www.linkedin.com/in/mauro-borrageiro-87a5131b5/}
-[brrmau002@myuct.ac.za]{brrmau002@myuct.ac.za}
+
+[Mauro-Borrageiro-87a5131b5](https://www.linkedin.com/in/mauro-borrageiro-87a5131b5/)
+
+[brrmau002@myuct.ac.za](brrmau002@myuct.ac.za)
