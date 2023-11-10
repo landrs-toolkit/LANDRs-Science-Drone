@@ -88,4 +88,4 @@ You can connect with me on LinkedIn or via Email:
 
 [Mauro-Borrageiro-87a5131b5](https://www.linkedin.com/in/mauro-borrageiro-87a5131b5/)
 
-[brrmau002@myuct.ac.za](brrmau002@myuct.ac.za)
+[mauro.borrageiro7@gmail.com](mauro.borrageiro7@gmail.com)
